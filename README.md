@@ -29,5 +29,8 @@ A function is then used to define a way of camparing items using the binary sear
 >The code starts by examining the middle item. If the item is not the desired item, then that is all, if not, then the ordered nature of the list(ordering is guaranteed from how the list is populated) is used to eliminate one half of the list as well as the middle item.The half to be eliminated is determined by: If the desired item is greater than the middle item of the list, then the lower half is eliminated, otherwise the upper half.
 The process is repeated until the desired item is found.
 
- 
+
+### 3.The Missing_number
+This program simply compares two lists and returns any item that is available in one list and not in the other.However, it is part of the logic to determine first if these lists contain anyy numbers before comparison can begin.
+The tests in **missing_nuber_tests.py** can be used to understand how Test Driven Development is implemented.
 
