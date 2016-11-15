@@ -1,0 +1,76 @@
+div {
+    border: 5px solid Gray;
+    background-color: DeepSkyBlue;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    text-align: center;
+}
+
+/*to create a variant of div*/
+
+.mediafeeds {
+	padding-top: 1px;
+    padding-right: 1px;
+    padding-bottom: 1px;
+    padding-left: 1px;
+    text-align: center;
+}
+
+/*/* Full-width inputs */
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    /*display: inline-block;*/
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+}
+
+/* Extra style for the cancel button (red) */
+.cancelbtn {
+    background-color: #f44336;
+}
+
+/* The "forgot password" text */
+span.psw {
+    float: right;
+    padding-top: 16px;
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+    span.psw {
+        display: block;
+        float: none;
+    }
+    .cancelbtn {
+        width: 100%;
+    }
+}
+
+/*formats images*/
+
+img {
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+/*heading formats*/
+
+h1 {
+	color: white;
+}
+
