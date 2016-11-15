@@ -19,6 +19,7 @@ It is important to note that color properties in HTML/CSS can be manipulated eih
 This code demonstrates a combination of both programming logic and Objet Oriented programming.
 
 **The logic**
+
 The code creates a list b, whose length is determined by another variable a.
 
 A for loop is then used to populate this list for as long as the length is not exeeed.
