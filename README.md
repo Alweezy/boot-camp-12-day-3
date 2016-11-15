@@ -15,7 +15,7 @@ This is a simple program that demonstrates ome basic HTML/CSS techniques:
 
 It is important to note that color properties in HTML/CSS can be manipulated eihter by the color names or Hex Codes. eg:RED and #FF0000 mean the same thing.
 
-### 1.The Binary_Search
+### 2.The Binary_Search
 This code demonstrates a combination of both programming logic and Objet Oriented programming.
 
 **The logic**
